@@ -22,13 +22,13 @@ My core competencies include Python, fastAPIs, and Fine-tuning LLMs.
 
 
 ###### Programming
-Python, FastAPI, Flask, Langchain
+Python, FastAPI, Flask
 
 ###### Blockchains
 Ethereum, Solana, Aptos
 
 ###### Tools/SDKs I have worked with:
-OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS 
+Langchain, OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS 
 
 
 </br>
