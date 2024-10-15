@@ -60,6 +60,7 @@ Langchain, OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS
 
 
 ###### Web2 Projects
+- EchoGPT </br>
 - Automatic Number Plate Recongnition System </br>
 
 
