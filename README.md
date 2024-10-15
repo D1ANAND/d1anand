@@ -44,7 +44,7 @@ Langchain, OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS
 ## Projects🌱
 
 ###### Best Projects
-- [supeWallet](https://github.com/D1ANAND/supeWallet) - LLMs powered web3 wallet that simplifies cross-chain transactions and digital asset management via natural language prompts. </br>
+- [supeWallet](https://github.com/D1ANAND/supeWallet) - LLM-powered Web3 wallet enabling cross-chain transactions and asset management through natural language prompts. </br>
 - [Hexs](https://github.com/D1ANAND/hexsBNB) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
 - [PromptReality](https://github.com/D1ANAND/PromptRealityBNB) - A platform for creating AI experiences in Mixed Reality </br>
 - [Genhub](https://github.com/D1ANAND/Constellation) - An AI-powered social network using Token Bound Accounts for users to create AI characters and dynamic content. </br>
