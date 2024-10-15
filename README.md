@@ -22,7 +22,13 @@ My core competencies include Python, fastAPIs, and Fine-tuning LLMs.
 
 
 ###### Programming
-Python, FastAPI, Flask
+Python
+
+###### Backend
+FastAPI, Flask
+
+###### Libraries
+Tensorflow, Pytorch, Unsloth
 
 ###### Blockchains
 Ethereum, Solana, Aptos
