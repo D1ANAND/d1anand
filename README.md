@@ -60,7 +60,8 @@ federated learning.
 - PromptReality </br>
 - Hexs </br>
 - GenHub </br>
-
+- DOMAINIA </br>
+- GASLIT </br>
 
 ###### Web2 Projects
 - EchoGPT </br>
