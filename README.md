@@ -44,6 +44,8 @@ Langchain, OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS
 ## Projects🌱
 
 ###### Best Projects
+- [Instruere](https://github.com/D1ANAND/Instruere-APTOS) - Instruere is a custom blockchain platform that utilizes TPU-enabled devices to train AI models as a consensus mechanism via
+federated learning.
 - [supeWallet](https://github.com/D1ANAND/supeWallet) - LLM-powered Web3 wallet enabling cross-chain transactions and asset management through natural language prompts. </br>
 - [Hexs](https://github.com/D1ANAND/hexsBNB) - Distributed ownership of AI models to offer fair incentives through chain-driven training. </br>
 - [PromptReality](https://github.com/D1ANAND/PromptRealityBNB) - A platform for creating AI experiences in Mixed Reality </br>
@@ -53,6 +55,7 @@ Langchain, OpenAI, IBM-Watson, MeshyAI, Replicate, Hugging Face, Galadriel,IPFS
 ###### Web3 Projects
 
 
+- Instruere </br>
 - supeWallet </br>
 - PromptReality </br>
 - Hexs </br>
